@@ -1,2 +1,2 @@
 # estrelas-bando
- repositorio para guardar arquivos de banco de dados.
+Repositório criado para guardar as aulas/exercícios de banco de dados.
